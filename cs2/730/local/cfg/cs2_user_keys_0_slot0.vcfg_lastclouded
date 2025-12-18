@@ -18,7 +18,6 @@
 		"g"		"drop"
 		"i"		"show_loadout_toggle"
 		"m"		"teammenu"
-		"p"		"say 凸( ͡ᵔ ͜ʖ ͡ᵔ)凸"
 		"q"		"+lj"
 		"r"		"+reload"
 		"s"		"+back"
@@ -57,11 +56,7 @@
 		"e"		"switchhandsright; slot7"
 		"h"		"switchhands"
 		"4"		"jbn"
-		"CAPSLOCK"		"bhoff"
+		"p"		"say 凸( ͡ᵔ ͜ʖ ͡ᵔ)凸"
 		"o"		"say ♿"
-	}
-	"analogbindings"
-	{
-		"MOUSE_X"		"yaw"
 	}
 }
